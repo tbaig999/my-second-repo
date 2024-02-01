@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 take survey
 we need to update
 send me email fast
+=======
+take survey
+>>>>>>> parent of 7ff4d16 (Update firstfile.txt)
